@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Neal Vazquez</title>
+  <desc id="desc">The nv. logo for neal-vazquez.com</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7991ed"/><stop offset="0.68" stop-color="#d8b75d"/><stop offset="1" stop-color="#7991ed" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#wash)"/>
+  <rect x="64" y="64" width="1072" height="502" rx="28" fill="none" stroke="#334155" stroke-width="2"/>
+  <rect x="64" y="64" width="1072" height="4" fill="url(#rule)"/>
+  <g fill="#f8fafc" font-family="Arial, Helvetica, sans-serif">
+    <text x="112" y="286" font-size="190" font-weight="700" letter-spacing="-18">nv<tspan fill="#d8b75d">.</tspan></text>
+    <text x="120" y="378" font-size="34" font-weight="700" letter-spacing="8">NEAL VAZQUEZ</text>
+    <text x="120" y="432" font-size="24" fill="#cbd5e1" letter-spacing="3">NEAL-VAZQUEZ.COM</text>
+  </g>
+  <circle cx="1040" cy="500" r="8" fill="#7991ed"/><circle cx="1070" cy="500" r="8" fill="#d8b75d"/>
+</svg>

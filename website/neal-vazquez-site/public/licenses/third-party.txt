@@ -1,0 +1,3 @@
+@juggle/resize-observer 3.4.0
+Source: https://github.com/juggle/resize-observer
+License: Apache-2.0; the unchanged upstream license is juggle-resize-observer-3.4.0-LICENSE.txt.

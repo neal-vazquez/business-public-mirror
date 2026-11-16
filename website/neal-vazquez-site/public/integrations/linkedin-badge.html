@@ -1,0 +1,11 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer"><style>body{margin:0;background:white}</style></head><body><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="neal-vazquez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/neal-vazquez/" target="_blank" rel="noopener noreferrer">Neal Vazquez on LinkedIn</a></div><script>
+const report = (height) => parent.postMessage({ kind: 'linkedin-profile-badge', height }, '*');
+const inspect = () => {
+  const card = document.querySelector('.LI-profile-badge');
+  const height = Math.ceil(card?.getBoundingClientRect().height || 0);
+  if (height > 60) { report(Math.min(height + 8, 640)); clearTimeout(deadline); observer.disconnect(); }
+};
+const observer = new MutationObserver(inspect);
+observer.observe(document.body, { childList: true, subtree: true, attributes: true });
+const deadline = setTimeout(() => { observer.disconnect(); report(0); }, 12000);
+</script><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" onload="inspect()" onerror="report(0)"></script></body></html>

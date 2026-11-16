@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" viewBox="0 0 816 1056">
+<rect width="816" height="1056" fill="white"/>
+<text x="60" y="65" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#202630">ALEX MORGAN</text>
+<text x="60" y="106.4" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#111c3b">Director of Analytics</text>
+<text x="60" y="132.62" font-family="Arial,sans-serif" font-size="15" font-weight="400" fill="#202630">Portland, OR | alex.morgan@example.com</text>
+<text x="60" y="167.32" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#111c3b">PROFESSIONAL SUMMARY</text>
+<path d="M60 176.64 H756" stroke="#bcc2cc"/>
+<text x="60" y="196.64" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">Analytics leader with 18 years across reporting, retail, and software. Leads an</text>
+<text x="60" y="218.71999999999997" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">8-person team translating customer and product data into commercial decisions,</text>
+<text x="60" y="240.79999999999995" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">reliable measurement, and practical experimentation.</text>
+<text x="60" y="276.87999999999994" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#111c3b">EXPERIENCE</text>
+<path d="M60 286.19999999999993 H756" stroke="#bcc2cc"/>
+<text x="60" y="306.19999999999993" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#202630">Director of Analytics | Cedar Metrics Inc. | 2020–present</text>
+<text x="60" y="334.8999999999999" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">• Led an 8-person analytics team supporting 8 regions; rebuilt revenue reporting</text>
+<text x="60" y="356.9799999999999" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">to reduce weekly preparation from 6 hours to 45 minutes.</text>
+<text x="60" y="388.0599999999999" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">• Directed experiment design with product partners; the winning checkout variant</text>
+<text x="60" y="410.1399999999999" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">increased completed purchases 8% relative to control.</text>
+<text x="60" y="441.21999999999986" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">• Established validation checks for 12 source tables and shared metric definitions</text>
+<text x="60" y="463.29999999999984" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">for executive reporting.</text>
+<text x="60" y="494.3799999999998" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">• Set quarterly analytics priorities with finance and product leaders, balancing</text>
+<text x="60" y="516.4599999999998" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">recurring reporting with experiment and customer-segmentation work.</text>
+<text x="60" y="556.5399999999998" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#202630">Senior Data Analyst | Harbor Retail Co. | 2014–2020</text>
+<text x="60" y="585.2399999999999" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">Standardized sales reporting for 20 stores and coached 3 analysts on SQL review</text>
+<text x="60" y="607.3199999999999" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">and stakeholder communication. Partnered with merchandising and finance on</text>
+<text x="60" y="629.4" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">seasonal planning and presented findings at regional business reviews.</text>
+<text x="60" y="663.48" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#202630">Reporting Analyst | Pine Systems Inc. | 2008–2014</text>
+<text x="60" y="690.1800000000001" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">Built SQL reporting and reconciled operational data for finance and customer-</text>
+<text x="60" y="712.2600000000001" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">support teams. Documented report logic and trained new staff on recurring</text>
+<text x="60" y="734.3400000000001" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">reporting workflows.</text>
+<text x="60" y="770.4200000000002" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#111c3b">SKILLS &amp; CREDENTIALS</text>
+<path d="M60 779.7400000000002 H756" stroke="#bcc2cc"/>
+<text x="60" y="799.7400000000002" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">Analytics leadership; roadmap prioritization; revenue measurement; customer</text>
+<text x="60" y="821.8200000000003" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">segmentation; SQL; Python; Power BI; experiment design; data validation; metric</text>
+<text x="60" y="843.9000000000003" font-family="Arial,sans-serif" font-size="16" font-weight="400" fill="#202630">governance; executive presentations.</text>
+<text x="60" y="879.9800000000004" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#111c3b">EDUCATION</text>
+<path d="M60 889.3000000000004 H756" stroke="#bcc2cc"/>
+<text x="60" y="909.3000000000004" font-family="Arial,sans-serif" font-size="14" font-weight="400" fill="#202630">M.S. Analytics | Cascadia State University | 2014</text>
+<text x="60" y="928.6200000000005" font-family="Arial,sans-serif" font-size="14" font-weight="400" fill="#202630">B.S. Statistics | Cascadia State University | 2008</text>
+<text x="408" y="280" text-anchor="middle" transform="rotate(-24 408 280)" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#111c3b" fill-opacity="0.13">NEAL-VAZQUEZ.COM • SAMPLE</text>
+<text x="408" y="560" text-anchor="middle" transform="rotate(-24 408 560)" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#111c3b" fill-opacity="0.13">NEAL-VAZQUEZ.COM • SAMPLE</text>
+<text x="408" y="840" text-anchor="middle" transform="rotate(-24 408 840)" font-family="Arial,sans-serif" font-weight="700" font-size="31" fill="#111c3b" fill-opacity="0.13">NEAL-VAZQUEZ.COM • SAMPLE</text>
+<path d="M60 990 H756" stroke="#bcc2cc"/><text x="60" y="1015" font-family="Arial,sans-serif" font-size="13" fill="#525b6b">FICTIONAL EXAMPLE • © 2026 NEAL VAZQUEZ • NOT FOR APPLICATION USE</text></svg>
